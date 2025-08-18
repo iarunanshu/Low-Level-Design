@@ -1,7 +1,3 @@
-The transcript concludes with the **Dependency Inversion Principle (DIP)**, the "D" in SOLID, which is about decoupling high-level and low-level modules through abstractions.
-
------
-
 ### **Understanding the Dependency Inversion Principle (DIP)**
 
 The **Dependency Inversion Principle (DIP)** states:

@@ -1,7 +1,3 @@
-The transcript discusses the **Liskov Substitution Principle (LSP)**, the "L" in the SOLID principles, which is crucial for building robust and correct object-oriented systems.
-
------
-
 ### **Understanding the Liskov Substitution Principle (LSP)**
 
 The **Liskov Substitution Principle (LSP)** states that **objects of a superclass should be replaceable with objects of a subclass without altering the correctness of a program.** 🔄

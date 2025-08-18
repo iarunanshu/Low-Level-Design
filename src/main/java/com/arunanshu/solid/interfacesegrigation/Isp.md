@@ -1,7 +1,3 @@
-The transcript explains the **Interface Segregation Principle (ISP)**, the "I" in the SOLID principles, which emphasizes designing focused interfaces to avoid forcing classes to depend on methods they don't use.
-
------
-
 ### **Understanding the Interface Segregation Principle (ISP)**
 
 The **Interface Segregation Principle (ISP)** states that **clients should not be forced to depend on interfaces they do not use**. 🧩
